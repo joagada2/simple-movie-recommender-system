@@ -1,2 +1,2 @@
-# simple-movie-recommender-system
-In this project, I developed simple movie recommender system for e movielens dataset. The system recommend movies based on popularity of the movie.
+# SIMPLE RECOMMENDER SYSTEM
+While the content-based and collaborative filter are more effective, sophisticated and user specific recommender engines, they have one common challenge which is that they cannot be used to recommend items to new or non-regular users as past history of activities of the target user is required. The simple recommender system, though more generic and less effective, can be very useful in making recommendation to users with no history of activities. In this project, I built a simple recommender system using the Movielens dataset downloaded from Grouplens
